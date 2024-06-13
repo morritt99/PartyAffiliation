@@ -19,11 +19,11 @@ public class PartyAffiliation {
         } else if (choice.equals("I")) {
 
             System.out.println("You get a Independent Person.");
-        }else {
+        } else {
 
             System.out.println("You get other.");
 
         }
 
     }
-    }
+}
